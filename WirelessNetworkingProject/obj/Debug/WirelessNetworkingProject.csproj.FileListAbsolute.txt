@@ -1,0 +1,7 @@
+c:\users\jacob\documents\visual studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\bin\Debug\WirelessNetworkingProject.exe.config
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\obj\Debug\WirelessNetworkingProject.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\bin\Debug\WirelessNetworkingProject.exe
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\bin\Debug\WirelessNetworkingProject.pdb
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\obj\Debug\WirelessNetworkingProject.exe
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\obj\Debug\WirelessNetworkingProject.pdb
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\WirelessNetworkingProject\WirelessNetworkingProject\bin\Debug\MySql.Data.dll
